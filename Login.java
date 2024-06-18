@@ -1,10 +1,3 @@
-lslfsjf
-sf
-sf
-sf
-sf
-f
-sfslfjslfjs
-fsf
-fs
-f
+public class Login {
+
+}
