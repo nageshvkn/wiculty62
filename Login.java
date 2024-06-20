@@ -1,6 +1,4 @@
-fsfslsjfsf
-s
-fpublic class Login {
+public class Login {
 
 	public static void main()
 	{
