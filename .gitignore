@@ -1,0 +1,4 @@
+*.class
+*.jar
+A/B/*.txt
+
